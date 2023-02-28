@@ -2,7 +2,7 @@
 
 Simple implementation of inverse polish notation written in rust.
 
-Awailable operations:
+Available operations:
 - **-** - substraction
 - **+** - addition
 - **\*** - multiplication
